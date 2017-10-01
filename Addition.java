@@ -1,4 +1,14 @@
-/* Basic Skeleton of GUI */
+/* Program :- Addition of Two Numbers Using GUI
+*
+*
+*
+*
+*
+*
+*   Author- Ayush Gupta
+*   Contact No- 8745056594
+*
+*/
 import java.awt.event.*;
 import java.awt.*;
 
